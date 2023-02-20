@@ -1,3 +1,14 @@
+'''
+CHATBOT TIW-TIW
+FEB 20,2023
+Group 4
+- Aleacel Retamal Postor
+- Lynzelle Urbano
+- Margarette Roque
+- Nella Punzal
+- Agustin Carlos Teodoro
+- John Kim Alcantara
+'''
 import re
 import long_response as long
 
